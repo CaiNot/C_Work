@@ -1,0 +1,6 @@
+﻿  main.c
+e:\代码\2-5_2_1\2-5_2_1\main.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+e:\代码\2-5_2_1\2-5_2_1\main.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+  2-5_2_1.vcxproj -> E:\代码\2-5_2_1\Debug\2-5_2_1.exe
